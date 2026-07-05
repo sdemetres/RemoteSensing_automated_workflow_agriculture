@@ -1,5 +1,6 @@
 # IMAGE CRITICAL INFO TO FEED IN SEQUENCE OF R SCRIPTS
-# 
+# TESTING FUNCTIONALITY V1 
+
 # INSTALL AND LOAD R PACKAGES
 ################################################################
 ipak <- function(pkg){ # check to see if packages are installed. Install them if they are not, then load them into the R session.
