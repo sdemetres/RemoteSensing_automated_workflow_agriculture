@@ -1,1 +1,0 @@
-# RemoteSensing_automated_workflow_agriculture
